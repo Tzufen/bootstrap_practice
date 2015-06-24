@@ -1,8 +1,9 @@
 14119105 行銷一甲 張慈芬
-<LI>環境安裝：
-<OL>搜尋Bootstrap網站
-<OL>Download Bootstrap
-<OL>解壓縮
+<OL>環境安裝：
+<LI>搜尋Bootstrap網站
+<LI>Download Bootstrap
+<LI>解壓縮
+</OL>
 4.	將CSS、fonts、js這三個資料夾丟到Sublime Text 3
 5.	建立新檔案index.html
 
