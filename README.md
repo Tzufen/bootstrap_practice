@@ -3,9 +3,9 @@
 <LI>搜尋Bootstrap網站
 <LI>Download Bootstrap
 <LI>解壓縮
-</OL>
-4.	將CSS、fonts、js這三個資料夾丟到Sublime Text 3
-5.	建立新檔案index.html
+<LI>	將CSS、fonts、js這三個資料夾丟到Sublime Text 3
+<LI>建立新檔案index.html
+<OL/>
 
 小小偷吃步
 1.	搜尋Sublime Text 3 package control→ ctrl+C 到sublime
