@@ -8,11 +8,13 @@
 <LI>建立新檔案index.html
 <OL/>
 
+<OL>
 小小偷吃步
-1.	搜尋Sublime Text 3 package control→ ctrl+C 到sublime
-2.	套件安裝：Sublime→ ctrl + ` →ctrl+V
-3.	安裝完成 ctrl+shift+P →install → emmet (語法)
-4.	Ctrl+shift+p → install→html 找 HTML Beautify→ ctrl+Alt+shift+F (排版)
+<LI>	搜尋Sublime Text 3 package control→ ctrl+C 到sublime
+<LI>	套件安裝：Sublime→ ctrl + ` →ctrl+V
+<LI>	安裝完成 ctrl+shift+P →install → emmet (語法)
+<LI>	Ctrl+shift+p → install→html 找 HTML Beautify→ ctrl+Alt+shift+F (排版)
+<OL/>
 
 Bootstrap：
 Html+ tab鍵
